@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi I'm One-berry 👋
+
+``` js
+const Oneberry = {
+pronouns: "she" | "her",
+code: [Javascript, HTML, CSS, Java, Python],
+tools: [JSP, DBMS, SQLDeveloper, DBeaver, ApacheTomcat],
+framework: [Spring, Bootstrap],
+
+challenge: "Not only the above, I'm interested in AWS and AI.
+So I want to study hard and achieve results in interesting fields."
+}
+```
 
 <!--
 **One-berry/One-berry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
