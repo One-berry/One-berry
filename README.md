@@ -8,7 +8,7 @@ tools: [JSP, DBMS, SQLDeveloper, DBeaver, ApacheTomcat],
 framework: [Spring, Bootstrap],
 
 challenge: "Not only the above, I'm interested in AWS and AI.
-So I want to study hard and achieve results in interesting fields."
+So I wanna study hard and achieve results in interesting fields."
 
 }
 ```
